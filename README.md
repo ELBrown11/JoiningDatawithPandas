@@ -5,6 +5,7 @@ The course contains 4 chapters/sections...
   2. Merging Tables with Different Join Types
   3. Advanced Merging and Concatonating
   4. Merging Ordered and Time Series Data
+
 (:white_check_mark: = completed)
   
 ## Language
