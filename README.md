@@ -23,6 +23,10 @@ The course contains 4 chapters/sections...
 * pandas
 * matplotlib
 
+## Skills
+* data manipulation
+* data modeling 
+* data preparation
 
 
 
